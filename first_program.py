@@ -2,8 +2,12 @@ def sayhi(name):
     print('hello world' name)
     CHANGE AGAIN
     changed on linux changed on windows
+    CHANGE aGAIN change on dev
     change on master
-    print('second change')
+    print('Second change')
     change after rollback
+    print('Second ----change')
     lalalal
     changed on windows
+
+def dev_test():pass
